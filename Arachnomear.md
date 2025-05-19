@@ -1,7 +1,7 @@
 <!-- https://homebrewery.naturalcrit.com/share/CBDZZorTfim1 -->
 
 <div class='artist' style='top:30px;right:100px;'>
-[v0.1.0](https://github.com/IP-DND-Resources/Arachnomear-Species/tree/main)
+[v0.2.0](https://github.com/IP-DND-Resources/Arachnomear-Species/tree/main)
 </div>
 
 <div class='artist' style='top:40px;right:100px;'>
@@ -30,7 +30,11 @@ Arachnomear have 6 arms, 2 that are full sized and 4 that are smaller and normal
 :
 As an Arachnomear, you have these special traits.  
 
-**Arachnid Limbs** You have a Climb Speed equal to your Speed. You can use your Climb Speed to move in any direction on vertical surfaces and ceilings. You must use 4 of your limbs to remain attached to any surface you are climbing. You gain Advantage on Strength (Athletics) checks to climb any surface. You are considered to have an additional limb for the purpose of climbing or holding on to a tiny object. This bonus increases to two hands once you reach character level 5.
+**Arachnid Limbs** You have a Climb Speed equal to your Speed. You can use your Climb Speed to move in any direction on vertical surfaces and ceilings. You must use 4 of your limbs (legs and arms) to remain attached to any surface you are climbing while not moving. 
+
+You gain Advantage on Strength (Athletics) checks to climb any surface.
+
+You are considered to have an additional limb for the purpose of climbing or holding a tiny object. This increases to two limbs once you reach character level 5.
 
 **Creep:** You have proficiency in the Stealth skill. When you reach character level 3, you gain the ability to hide more effectively while climbing. While you are Climbing, you have advantage on Dexterity (Stealth) checks to avoid detection.
 
@@ -40,7 +44,11 @@ As an Arachnomear, you have these special traits.
 
 **Careful Step:** You gain the ability move through Webs as though they weren't difficult terrain. You always succeed saving throws to avoid the Restrained condition from Webs.
 
-**Web Throw:** When you reach character level 7, you always have the Web spell prepared and have the material components available for it. As a Bonus action, you can cast Web without expending a spell slot using this trait a number of times equal to half of your proficiency bonus (rounded up). When you use this trait to cast Web, its range is reduced to self, its size is reduced to a 10 foot cube, and it does not require concentration to maintain. You regain 1 expended use when you finish a Short Rest, and all expended uses when you finish a Long Rest.
+**Web Throw:** As a Bonus action, you can cast the Web spell without components or expending a spell slot. Its range is reduced to self, its size is reduced to a 10 foot cube, and it does not require concentration to maintain. You can use this trait a number of times equal to half of your proficiency bonus (rounded up). 
+
+The DC for this trait is equal to 8 + your Dexterity modifier + Proficiency Bonus.
+
+You regain 1 expended use when you finish a Short Rest, and all expended uses when you finish a Long Rest.
 
 {{imageMaskEdge6,--offset:0%,--rotation:270
   ![](https://raw.githubusercontent.com/IP-DND-Resources/Entomear-Species/refs/heads/main/img/Entomear.png){right:0px,bottom:150px,height:600px}
