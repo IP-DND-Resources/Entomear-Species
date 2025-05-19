@@ -46,7 +46,7 @@ You are considered to have an additional limb for the purpose of climbing or hol
 
 **Web Throw:** As a Bonus action, you can cast the Web spell without components or expending a spell slot. Its range is reduced to self, its size is reduced to a 10 foot cube, and it does not require concentration to maintain. You can use this trait a number of times equal to half of your proficiency bonus (rounded up). 
 
-The DC for this trait is equal to 8 + your Dexterity modifier + Proficiency Bonus.
+The DC for this trait is equal to 8 + your Dexterity modifier + your Proficiency Bonus.
 
 You regain 1 expended use when you finish a Short Rest, and all expended uses when you finish a Long Rest.
 
